@@ -31,7 +31,7 @@ public class LibretaNotas {
         
     }
     
-    public void estableceNombreEstudiante(String x){
+    public void establecerNombreEstudiante(String x){
         nombreEstudiante = x;
     }
     
